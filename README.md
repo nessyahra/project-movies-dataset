@@ -1,6 +1,6 @@
 # Analysis Project with Movies Dataset 🎬
 This project involves an exploratory data analysis (EDA) using a movies dataset containing over 1,000 entries, including features such as movie titles, release years, genres, budgets, revenues, ratings, and more. The project begins with data preparation and cleaning to ensure data consistency and reliability.
-<br> Once the data is preprocessed, various visualizations will be created to uncover patterns, trends, and relationships among different variables—such as the correlation between budget and revenue, or the distribution of ratings across years and genres. The goal is to gain deeper insights into the characteristics of successful movies and factors that may influence their performance.
+<br> Once the data is preprocessed, various visualizations will be created to uncover patterns, trends, and relationships among different variables. The goal is to gain deeper insights into the characteristics of successful movies and factors that may influence their performance.
 <br> Check the dataset: [Movies Dataset](https://www.kaggle.com/datasets/ashishkumarjayswal/movies-updated-data)
 
 # Features
